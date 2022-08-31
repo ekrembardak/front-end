@@ -1,0 +1,48 @@
+/*Body kısmını ortaya çekme.*/
+.body{
+    text-align: center;
+}
+/*Arama çubuğu kısmındaki arka plan, genişlik, yükseklik ve konum css kodları.*/
+.box{
+    background-color: rgb(234, 229, 229);
+    width: 1300px;
+    height: 64.4px;
+    margin: 0 auto  ;
+}
+/*1.kutuda bulunan üst boşluk, arka plan rengi, genişlik, yükseklik, kutu hacmi, sola sabitleme kısımları. */
+.box1{
+    margin-top: 3px;
+    background-color: rgb(6, 219, 219);
+    width: 450px;
+    height: 60px;
+    padding: 10px;
+    margin-left: 110px;
+    float: left;
+}
+/*2.kutuda bulunan üst boşluk, arka plan rengi, genişlik, yükseklik, kutu hacmi, sola sabitleme ve yazı boyutu kısımları. */
+.box2{
+    margin-top: 3px;
+    background-color: rgb(6, 192, 192);
+    width: 362px;
+    height: 60px;
+    padding: 10px;
+    margin-left: 2px;
+    float: left;
+    font-size: 13px;
+}
+/*3.kutuda bulunan üst boşluk, arka plan rengi, genişlik, yükseklik, kutu hacmi, sola sabitleme ve yazı boyutu kısımları. */
+.box3{
+    margin-top: 3px;
+    background-color: rgb(5, 173, 173);
+    width: 425px;
+    height: 60px;
+    padding: 10px;
+    margin-left: 2px;
+    float: left;
+    font-size: 10px;
+}
+/*Son kısım css ayarlamaları.*/
+p {
+    font-size: 13px;
+    margin-top: 100px;
+}
