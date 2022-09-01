@@ -1,0 +1,19 @@
+.display-4{
+    color: red;
+    text-align: center;
+}
+.lead{
+    text-align: center;
+}
+h3{
+    text-align: center;
+    color: rgb(178, 178, 6);
+}
+ul{
+    width: 70%;
+    margin-left: 650px;
+}
+h1{
+    color: purple;
+    text-align: center;
+}
